@@ -1,0 +1,5 @@
+appConfig:
+  strMap:
+    a.b: abv
+  objectMap:
+    a.b: abv
